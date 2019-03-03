@@ -42,10 +42,10 @@ I'm student of 4th course of Belarusian National Technical University, I have ex
 
 
 ----
-### Образование
+### Education
  I'm student of 4th course of Belarusian National Technical University of Information Technologies and Robotics faculty 
   
 
 ----
-### Уровень английского
+### English
  B1+
