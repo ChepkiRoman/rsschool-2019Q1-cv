@@ -1,0 +1,45 @@
+
+body{
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  border: 1px solid rgba(255, 192, 203, 0.0);
+  font-size: 20px;
+}
+span {
+  display: table;
+  margin: 0 auto;
+}
+
+#photo {
+  width: 260px;
+  height: 260px;
+}
+div.classPhoto {
+  float: left;
+  width: 260px;
+  height: 260px;
+  margin: 20px 20px 20px 40px;
+}
+.greeting{
+   padding-top: 20px;
+}
+
+.textShortStory {
+  padding-top: 30px;
+  font-size: 20px;
+  width: 700px;
+  height: 240px;
+}
+#contacts {
+  padding-left: 40px;
+}
+.info{
+  margin: 20px 20px 20px 20px;
+  padding-top: 30px;
+}
+
+table.example {
+  table-layout: auto;
+  width: 100%;
+}
